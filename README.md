@@ -2,11 +2,11 @@
 
 ![huge_icons_flutter](https://github.com/richprince23/huge_icons_flutter/blob/master/scrrenshot.png?raw=true)</br>
 
-28+ Pixel-perfect svg HugeIcons for your next flutter project ispired by [HugeIcons](https://hugeicons.com/)
+28+ Pixel-perfect svg HugeIcons for your next Flutter project inspired by [HugeIcons](https://hugeicons.com/) Stroke Free Icons
 
 ## Note:
 
-Currently contains 28 icons from the *Add-Remove* section. Still a work in progress. More icons will be added each week.
+Currently contains 28+ icons from the *Add-Remove* section. Still a work in progress. More icons will be added each week.
 
 ## Installation
 
@@ -43,7 +43,7 @@ class Demo extends StatelessWidget{
 |Name|Type|Description|default value|
 |:---|:---:|:---|---:|
 |size|double|Icon size|24|
-|color|Color|icon color|Colors.black45|
+|color|Color|icon color|Colors.black|
 |fit|BoxFit|How icon should be inscribed into container|BoxFit.contain|
 
 </br>
