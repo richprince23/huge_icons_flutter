@@ -43,7 +43,7 @@ class Demo extends StatelessWidget{
 |Name|Type|Description|default value|
 |:---|:---:|:---|---:|
 |size|double|Icon size|24|
-|color|Color|icon color|Colors.black45|
+|color|Color|icon color|Colors.black|
 |fit|BoxFit|How icon should be inscribed into container|BoxFit.contain|
 
 </br>
