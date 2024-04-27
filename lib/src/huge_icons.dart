@@ -100,7 +100,7 @@ class HugeIcons {
     'cancel_circle_half_dot': HugeIcons.cancel_circle_half_dot,
     'cancel_square_rounded': HugeIcons.cancel_square_rounded,
     'delete1': HugeIcons.delete1,
-    'delete2_lines_rounded': HugeIcons.delete2_lines_rounded,
+    'delete3': HugeIcons.delete3,
     'delete4': HugeIcons.delete4,
     'delete_put_back': HugeIcons.delete_put_back,
     'delete_throw': HugeIcons.delete_throw,
