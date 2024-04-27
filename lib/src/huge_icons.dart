@@ -1,5 +1,7 @@
 // library huge_icons_flutter;
 
+// ignore_for_file: constant_identifier_names
+
 part of 'huge_icons_flutter.dart';
 
 /// Icons class for huge icons.

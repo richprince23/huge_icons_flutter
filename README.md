@@ -1,39 +1,52 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# flutter_unicons
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+![flutter_unicons](https://github.com/charles9904/flutter_unicons/blob/main/assets/images/hero.png?raw=true)</br>
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
+1000+ Pixel-perfect svg unicons for your next flutter project ispired by [HugeIcons](https://hugeicons.com/)
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+## Demo
 
-## Features
+Currently contains 28 icons from the *Add-Remove* section. Still a work in progress. More icons will be added each week.
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+## Installation
 
-## Getting started
+Add dependency to your **pubspec.yaml**
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+```yaml
+dependencies:
+  huge_icons_flutter: #version (current is 0.0.1)
+```
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
 ```dart
-const like = 'sample';
+import 'package:huge_icons_flutter/huge_icons_flutter.dart';
+
+class Demo extends StatelessWidget{
+  @override
+  Widget build(BuildContext context) {
+    return SafeArea(
+      child: Column(
+        children: [
+          HugeIcons(HugeIcon.add),
+          HugeIcons(HugeIcon.delete2),
+        ]
+      )
+    );
+  }
+}
 ```
 
-## Additional information
+## Options
+</br>
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+|Name|Type|Description|default value|
+|:---|:---:|:---|---:|
+|size|double|Icon size|24|
+|color|Color|icon color|Colors.black45|
+|fit|BoxFit|How icon should be inscribed into container|BoxFit.contain|
+
+</br>
+
+## Licence
+Refer to HugeIcons License [here](https://docs.hugeicons.com/faqs/license-questions)
