@@ -115,9 +115,9 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             HugeIcon(
-              HugeIcons.delete2,
+              HugeIcons.add_circle_half_dot,
               color: Colors.green,
-              size: 400,
+              size: 40,
             )
           ],
         ),
