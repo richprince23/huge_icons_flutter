@@ -1,10 +1,10 @@
-# flutter_unicons
+# huge_icons_flutter
 
-![flutter_unicons](https://github.com/richprince23/huge_icons_flutter/blob/master/scrrenshot.png?raw=true)</br>
+![huge_icons_flutter](https://github.com/richprince23/huge_icons_flutter/blob/master/scrrenshot.png?raw=true)</br>
 
-1000+ Pixel-perfect svg unicons for your next flutter project ispired by [HugeIcons](https://hugeicons.com/)
+28+ Pixel-perfect svg HugeIcons for your next flutter project ispired by [HugeIcons](https://hugeicons.com/)
 
-## Demo
+## Note:
 
 Currently contains 28 icons from the *Add-Remove* section. Still a work in progress. More icons will be added each week.
 
