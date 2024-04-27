@@ -1,6 +1,6 @@
 # flutter_unicons
 
-![flutter_unicons](![https://github.com/charles9904/flutter_unicons/blob/main/assets/images/hero.png](https://github.com/richprince23/huge_icons_flutter/blob/master/scrrenshot.png)?raw=true)</br>
+![flutter_unicons](https://github.com/richprince23/huge_icons_flutter/blob/master/scrrenshot.png?raw=true)</br>
 
 1000+ Pixel-perfect svg unicons for your next flutter project ispired by [HugeIcons](https://hugeicons.com/)
 
