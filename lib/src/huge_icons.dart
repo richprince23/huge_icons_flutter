@@ -42,8 +42,8 @@ class HugeIcons {
       name: 'cancel_square_rounded');
   static const HugeIconData delete1 = HugeIconData(
       path: 'assets/huge_icons/delete-01-stroke-rounded.svg', name: 'delete1');
-  static const HugeIconData delete2_lines_rounded = HugeIconData(
-      path: 'assets/huge_icons/delete-02-lines-stroke-rounded.svg',
+  static const HugeIconData delete3 = HugeIconData(
+      path: 'assets/huge_icons/delete-03-stroke-rounded.svg',
       name: 'delete2_lines_rounded');
   static const HugeIconData delete4 = HugeIconData(
       path: 'assets/huge_icons/delete-04-stroke-rounded.svg', name: 'delete4');
