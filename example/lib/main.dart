@@ -116,7 +116,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             HugeIcon(
               HugeIcons.add_circle_half_dot,
-              color: Colors.green,
+              color: Colors.pink,
               size: 40,
             )
           ],

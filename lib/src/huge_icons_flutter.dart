@@ -27,7 +27,7 @@ class HugeIcon extends StatelessWidget {
       package: 'huge_icons_flutter',
       width: size,
       height: size,
-      color: color,
+      colorFilter: ColorFilter.mode(color, BlendMode.srcIn),
       fit: BoxFit.cover,
     );
   }
